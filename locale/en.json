@@ -1,0 +1,63 @@
+{
+    "home": {
+        "no_account": "Don't have an account?",
+        "have_account": "Already have an account",
+        "sign_up": "Sign up",
+        "sign_in": "Sign in"
+    },
+    "login": {
+        "login_heading": "Login Screen",
+        "login_button": "Login",
+        "sign_up": "Sign up",
+        "login_with_facebook": "Login with facebook",
+        "sign_in_with_facebook_or_phone_number": "Sign in with facebook button or phone number",
+        "login_with_phone_number": "Login with Phone Number",
+        "logged_in_succesfully": "Logged In Succesfully",
+        "error_retry_login": "Error Retry Login",
+        "unregistered_account": "Unregister account, please register"
+    },
+    "signup": {
+        "enter_phone_toast": "Please, enter your phone number!",
+        "enter_otp_toast": "Please enter OTP first",
+        "continue_with_fb": "Continue with Facebook",
+        "phone_number": "Phone Number",
+        "sign_up": "Sign up",
+        "step_1": "Please sign up with your facebook account to continue",
+        "step_2": "Enter your phone number",
+        "step_3": "A varification code has been sent to your phone number, please enter it below to continue",
+        "phone_number_language": "eng",
+        "code_sent_your_phone": "Code sent to your phone.",
+        "code_confirmed": "Code confirmed",
+        "wrong_otp_toast": "Wrong OTP",
+        "code_incorrect": "Wrong code"
+    },
+    "signin": {
+        "enterYourPhoneNumber": "Enter your phone number!",
+        "phoneNumber": "Phone Number",
+        "otp": "OTP"
+    },
+
+    "drawer": {
+        "home": "Home",
+        "history": "History",
+        "notifications": "Notifications",
+        "referAFriend": "Refer A Friend",
+        "comingoo&you": "Comingoo & You",
+        "help": "Help",
+        "logout": "Logout"
+    },
+    "handlers": {
+        "okay": "Okay"
+    },
+    "refer_a_friend": {
+        "refer_a_friend": "Refer a friend",
+        "middle_text": "We value friendship, so we encourage you to invite your friends to use Comingoo to earn points that you can then convert to Comingoo credit",
+        "refer": "Refer"
+    },
+    "tripFinishedPopup": {
+        "evaluateTrip": "Evaluate your experience",
+        "amountToBeCollected": "Total amount to be collected",
+        "collected": "Species collected",
+        "recharge": "Recharge"
+    }
+}

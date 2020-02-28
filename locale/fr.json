@@ -1,0 +1,59 @@
+{
+    "home": {
+        "no_account": "Vous n'avez pas de compte?",
+        "have_account": "Vous avez déjà un compte",
+        "sign_up": "S'inscrire",
+        "sign_in": "se connecter"
+    },
+    "login": {
+        "login_heading": "Écran de connexion",
+        "login_button": "S'identifier",
+        "sign_up": "S'inscrire",
+        "logged_in_succesfully": "Connecté avec succès",
+        "error_retry_login": "Erreur Réessayer Connexion"
+    },
+    "signup": {
+        "enter_phone_toast": "S'il vous plait, entrez votre numéro de téléphone!",
+        "enter_otp_toast": "S'il vous plaît entrer OTP en premier",
+        "continue_with_fb": "Continuer avec Facebook",
+        "phone_number": "Numéro de téléphone",
+        "sign_up": "S'inscrire",
+        "step_1": "Merci de vous inscrire avec votre compte facebook pour continuer",
+        "step_2": "Entrez votre numéro de téléphone",
+        "step_3": "Un code de vérification a été envoyé à votre numéro de téléphone. Veuillez le saisir ci-dessous pour continuer.",
+        "phone_number_language": "fra",
+        "code_sent_your_phone": "Code envoyé à votre téléphone.",
+        "code_confirmed": "Code confirmé.",
+        "wrong_otp_toast": "Mot de passe incorrect",
+        "code_incorrect": "Mauvais code",
+        "unregistered_account": "Désinscrire un compte, veuillez vous inscrire"
+    },
+    "drawer": {
+        "home": "Accueil",
+        "history": "L'histoire",
+        "notifications": "Les notifications",
+        "referAFriend": "Référez un ami",
+        "comingoo&you": "Comingoo et vous",
+        "help": "HelAidez-moip",
+        "logout": "Connectez - Out"
+    },
+    "signin": {
+        "enterYourPhoneNumber": "Entrez votre numéro de téléphone!",
+        "phoneNumber": "Numéro de téléphone",
+        "otp": "OTP"
+    },
+    "handlers": {
+        "okay": "d'accord"
+    },
+    "refer_a_friend": {
+        "refer_a_friend": "Référez un ami",
+        "middle_text": "Nous valorisons l'amitié. Nous vous encourageons donc à inviter vos amis à utiliser Comingoo pour gagner des points que vous pourrez ensuite convertir en crédit Comingoo.",
+        "refer": "Référer"
+    },
+    "tripFinishedPopup": {
+        "evaluateTrip": "Évaluez votre expérience",
+        "amountToBeCollected": "Montant total à percevoir",
+        "collected": "Espèces collectées",
+        "recharge": "Recharger"
+    }
+}

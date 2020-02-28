@@ -1,0 +1,14 @@
+fastlane_version '2.119.0'
+
+platform :ios do
+   # iOS Lanes
+end
+
+platform :android do
+  # Android Lanes
+    desc 'Build the Android application.'
+    lane :build do
+        gradle(task: 'clean', project_dir: 'android/')
+        gradle(task: 'assemble', build_type: 'Release', project_dir: 'android/')
+    end
+end

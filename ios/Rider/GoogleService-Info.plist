@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1031982693362-tub3gteg9keduf1dejja81gn24tn8c6u.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1031982693362-tub3gteg9keduf1dejja81gn24tn8c6u</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>1031982693362-89h3k6mri4nl2gu8hjkr0vhejuto22q6.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCmhvUHtd7pf30mTyHMAJgAWLDXQhmTnTg</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1031982693362</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.comingoo.rider</string>
+	<key>PROJECT_ID</key>
+	<string>comingoo-236512</string>
+	<key>STORAGE_BUCKET</key>
+	<string>comingoo-236512.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1031982693362:ios:9401928db19db073</string>
+	<key>DATABASE_URL</key>
+	<string>https://comingoo-236512.firebaseio.com</string>
+</dict>
+</plist>
